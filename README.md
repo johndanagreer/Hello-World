@@ -1,3 +1,3 @@
 # Hello-World
 test repository
-Professional passions of mind include scripting, networking, software development, programming, automation
+Professional passions of mine include scripting, networking, software development, programming, automation, system administration
